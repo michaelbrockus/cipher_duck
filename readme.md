@@ -1,10 +1,14 @@
-# D Program
+# Cipher Duck for the Command-Line. 🦆📜❔
 
 ## About
 
 * * *
 
-Please add relevant information about your application.
+Cipher Duck is a nifty little tool that helps
+you encrypt your messages for fun adventure
+games and or communication in an encrypted
+cipher languqge. Gain the ability to encrypt
+your messages from within the command-line.
 
 ## Tooling information
 
@@ -40,7 +44,7 @@ meson install -C builddir
 And finally we run this cool application:
 
 ```console
-prog
+cipher-duck
 ```
 
 ## Contact the developer
