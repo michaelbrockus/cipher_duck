@@ -10,6 +10,12 @@ games and or communication in an encrypted
 cipher languqge. Gain the ability to encrypt
 your messages from within the command-line.
 
+## Program Preview
+
+* * *
+
+Please add an image for the user to see.
+
 ## Tooling information
 
 * * *
